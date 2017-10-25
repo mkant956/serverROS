@@ -1,0 +1,6 @@
+set(beginner_tutorials_SETUP_PY_VERSION "0.0.0")
+set(beginner_tutorials_SETUP_PY_SCRIPTS "")
+set(beginner_tutorials_SETUP_PY_PACKAGES "")
+set(beginner_tutorials_SETUP_PY_PACKAGE_DIRS "src")
+set(beginner_tutorials_SETUP_PY_MODULES "")
+set(beginner_tutorials_SETUP_PY_MODULE_DIRS "")

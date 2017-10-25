@@ -1,0 +1,8 @@
+prefix=/home/cse/catkin_ws/devel
+
+Name: conversion
+Description: Description of conversion
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cse/catkin_ws/devel/lib 
+Requires: 
